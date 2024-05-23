@@ -1,0 +1,40 @@
+Desafios:
+
+* Uso de diversas bibliotecas com pouco flexibilidade para desenvolvimento do código.
+* Sistema personalizado, necessita de ser programado para ser realizado.
+* Extração dos dados de fontes diversas
+* Transformação de diversos tipos de dados diferentes
+
+
+Objetivo:
+
+* Apresenta para o usuário fatos na internet buscados em diversas fontes e a relação com a sua pergunta em %.
+
+Ex:
+
+pergunta: "Brasil tem 8 copas ?"
+
+resposta: 
+
+100% das respostas negativo ou baixa %.Numero de fontes: 1000
+
+site.xyz.com 1%
+site.xyz.com 3%
+site.xyz.com 5%
+site.xyz.com 7%
+site.xyz.com 9%
+site.xyz.com 10%
+site.xyz.com 0%
+site.xyz.com 0%
+site.xyz.com 0%
+site.xyz.com 0%
+site.xyz.com 0%
+
+
+Sistema:
+
+* python
+* fast api
+* api
+* bfsoup, nltk, pandas, numpy e etc
+* sistema virtualizado, retorna endpoint com resposta para pergunta do usuario
